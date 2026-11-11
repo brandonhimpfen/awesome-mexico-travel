@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Mexico, covering official tourism portals, immigration services, domestic transport networks, archaeological zones, and remote work resources.
 
+Mexico is a vibrant North American destination spanning colonial highlands, ancient Mayan ruins, and extensive Pacific and Caribbean coastlines, celebrated for its culinary traditions and rich biodiversity. This list is intended for cultural travelers, remote professionals, archaeological explorers, and road-trip enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
